@@ -6,4 +6,5 @@ int main() {
     int y = 3;
     cout<<x + y<<endl;
     cout<<x * y<<endl;
+    cout<<x / y<<endl;
 }
